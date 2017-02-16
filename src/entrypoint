@@ -1,0 +1,5 @@
+#!/bin/bash -e
+
+echo "I am $1"
+
+sleep 10
