@@ -1,1 +1,5 @@
-script: ./auto/build
+services:
+  - docker
+
+script: 
+  - ./auto/build
