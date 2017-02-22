@@ -1,3 +1,3 @@
 # CI test
 
-just a try 
+Want to skip ci
