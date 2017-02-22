@@ -2,4 +2,6 @@ services:
   - docker
 
 script: 
+  - ./auto/authentication
   - ./auto/build
+  - ./auto/release
